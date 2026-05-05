@@ -1,0 +1,26 @@
+python
+C++
+java
+C#
+sql
+machine learning
+data analysis 
+cloud
+deep learning
+tensorflow
+pytorch
+html
+css
+javascript
+react
+nodejs
+mongodb
+aws
+docker
+kubernetes
+git
+linux
+excel
+power bi
+communication
+problem solving
